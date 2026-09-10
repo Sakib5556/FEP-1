@@ -3,3 +3,4 @@ Line 2: setting upstream
 Line 3: explicit remote and branch
 Line 4: refspec branch target
 Line 5: tag release v1.0
+Line 6: testing all push
